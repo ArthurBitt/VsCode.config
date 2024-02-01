@@ -1,12 +1,12 @@
-# VsCode.config
 
+# Powershell.config
 ```powershell
 
 Get-ExecutionPolicy
 Set-ExecutionPolicy unrestricted -Force
 
 ```
-
+# VsCode.config
 ```json
 
 
